@@ -1,0 +1,27 @@
+
+.card {
+    background-color: rgb(182, 233, 221);
+    width: 380px  ;
+    padding: 5px;
+    margin: 15px 20px 15px 20px ;
+    border: 5px solid;
+    border-color: rgb(177, 234, 232);
+    border-radius: 10px;
+    box-shadow: 10px 15px 20px rgb(209, 232, 155);
+}
+.card img {
+    width: 360px ;
+    padding: 5px; 
+    margin: 5px 10px 5px 3px;
+    border-radius: 15px; 
+}
+.card p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card button {
+    background-color: rgb(135, 162, 84);
+    padding: 10px;
+    border: 15px;
+    border-radius: 15px ;
+    font-family: 'Times New Roman', serif;
+}

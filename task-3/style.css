@@ -1,0 +1,50 @@
+.home {
+    background-color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px auto ;
+    width: fit-content;
+    padding: 20px 30px ;
+    margin: 25px;
+    font-size: medium;
+
+}
+
+.gallery {
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: fit-content;
+    padding: 20px 30px ;
+    margin: 25px;
+    font-size: medium;
+    
+
+}
+
+.contact {
+    background-color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: fit-content;
+    padding: 20px 30px ;
+    margin: 25px;
+    font-size: medium;
+    
+
+}
+
+.card {
+    padding: 10px auto;
+    background-color: rgb(32, 158, 174);
+    border: 1px solid;
+    border-color: aquamarine;
+    border-radius: 5px;
+    width: 600px;
+}
+.body {
+    background-color: rgb(212, 222, 133);
+}
+.back {
+    background-color: rgb(64, 211, 209);
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+}
